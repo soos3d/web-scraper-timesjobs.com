@@ -5,6 +5,6 @@ The program asks for the city where to look for jobs, then saves a CSV file in t
 - Job Position
 - Company Name
 - Link to the post
-- When in was posted
+- When it was posted
 
 This program only scrapes the first listing page.
